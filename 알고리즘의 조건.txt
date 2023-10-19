@@ -1,0 +1,28 @@
+알고리즘의 조건
+
+정적분석 Static
+-수행 전 코드를 분석하는 것
+
+동적분석 Dynamic
+-실제로 수행을 시켜보고 확인하는 것
+
+얼마나 빨리 반응하는지 분석 Growth of Functions
+세타/오메가/Bif-O notation
+
+슈도코드(의사코드) pseudocode 3p
+종류 3개
+
+Binary Search
+:정렬이 돼있어야 함.
+:sort가 돼있으면 B가 더 좋음
+
+Linear Search
+:찾는 숫자가 앞에 있을 때는 리니어 서치가 더 빠름
+:범위를 벗어나는 경우에 찾는 게 어려움
+
+average case
+
+
+double sort
+
+
